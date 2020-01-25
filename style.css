@@ -1,0 +1,70 @@
+.ab {
+  font-size: 30px;
+}
+.c {
+  font-size: 1px;
+}
+
+#Creeper img {
+  float: right;
+  width: 180px;
+  height: 190px;
+}
+
+#Text1 {
+  float: left;
+  background-color: #ff3333;
+}
+
+#Creeper {
+  float: right;
+}
+
+.AX {
+  float: left;
+}
+
+.Link1 {
+  background-color: rgb(0, 255, 0);
+}
+
+.Link2 {
+  background-color: chocolate;
+}
+
+.Überschrift1 {
+  padding: 100px 10px 20px 30px;
+  background-color: #18e63a;
+}
+
+body {
+  background-color: darkblue;
+}
+
+.Link3 {
+  background-color: goldenrod;
+}
+
+.Link4 {
+  background-color: goldenrod;
+}
+
+.Text3 {
+  background-color: goldenrod;
+}
+
+body {
+  background-color: gray;
+}
+
+Zeitschrift.jpg {
+  float: right;
+}
+
+#links {
+  float: left;
+}
+
+.Info {
+  float: right;
+}
