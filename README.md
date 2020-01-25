@@ -1,1 +1,0 @@
-# sasala-cup.github.io
